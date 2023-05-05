@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132836791254",
+    "project_id": "fire-assignment",
+    "storage_bucket": "fire-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132836791254:android:9a3e27eeb188488b1b8a77",
+        "android_client_info": {
+          "package_name": "com.example.fire_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132836791254-goh1gbf1f2v57dhs970v9roujnitg1jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_assignment",
+            "certificate_hash": "a29c27866e22ffdaef32878fd0b757e846f83311"
+          }
+        },
+        {
+          "client_id": "132836791254-irf3r174bmovso9prie0g5ps8teloq5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fvhuyz31pRwFe1bAIKAM4iHSXC-EsWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132836791254-irf3r174bmovso9prie0g5ps8teloq5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
